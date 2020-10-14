@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NuovaVita</title>
+    <link rel="stylesheet" href="./font/fontawesome-free-5.14.0-web/css/all.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div id="app">
+        <div id="top-line">
+            <img id="logo" src="./images/nuovavita_soft.png" alt="">
+            <div id="top-line-icons">
+                <i @mouseenter="nav='nav-bar'; page=''" class="fas fa-bars"></i>
+                <div>
+                    <i @click="shoppingCart=true" class="fas fa-shopping-cart"></i>
+                    <i @click="searchField = true" class="fas fa-search"></i>
+                </div>
+            </div>
+            <div id="menu-cart-serach">
+                <div id="nav-bar">
+                    <nav @mouseleave="nav=''" v-show="nav=='nav-bar'">
+                        <a href="#" @click="page='intro'">Home</a>
+                        <a href="#" @mouseenter="links='project-links'" @click="page='projects'">Projects</a>
+                        <a href="#" @mouseenter="links='furniture-links'" @click="page='furniture'">Furniture</a>
+                        <a href="#" @click="page='aboutUs'">About us</a>
+                        <ul v-show="links == 'project-links'" @mouseleave="links=''">
+                            <li><a href="#" @click="page='spanish_villa'">Spanish Villa</a></li>
+                            <li><a href="#" @click="page='camparino'">Camparino</a></li>
+                            <li><a href="#" @click="page='brucke'">Brucke 49</a></li>
+                        </ul>
+                        <ul v-show="links == 'furniture-links'" @mouseleave="links=''">
+                            <li><a href="#" @click="page='chair'">Chairs</a></li>
+                            <li><a href="#" @click="page='learning_chair'">Learning chairs</a></li>
+                            <li><a href="#" @click="page='coffee_table'">Coffee tables</a></li>
+                            <li><a href="#" @click="page='sofa'">Sofas</a></li>
+                            <li><a href="#" @click="page='shelf'">Shelves</a></li>
+                            <li><a href="#" @click="page='sideboard'">Sideboards</a></li>
+                            <li><a href="#" @click="page='bed'">Beds</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div id="cart-search">
+                    <div class="shopping-cart" v-show="shoppingCart == true">
+                        <button @click="shoppingCart = false"><i class="fas fa-times"></i></button>
+                        <shopping-cart :shopping_cart="shopping_cart" @delete-product="deleteProduct"></shopping-cart>
+                    </div>
+
+                    <div class="search-field" v-show="searchField == true">
+                        <button @click="searchField = false"><i class="fas fa-times"></i></button>
+                        <h3>Search furniture</h3>
+                        <select v-model="category" id="inptCategory">
+                            <option value="">Choose category</option>
+                            <option value="Chairs">Chairs</option>
+                            <option value="Learning chairs">Learning chairs</option>
+                            <option value="Coffee tables">Coffee tables</option>
+                            <option value="Sofas">Sofas</option>
+                            <option value="Shelves">Shelves</option>
+                            <option value="Sideboards">Sideboards</option>
+                            <option value="Beds">Beds</option>
+                        </select>
+                        <label for="inptPriceFrom">Price from:</label>
+                        <input v-model="priceFrom" class="inptPriceFrom" type="text" placeholder="Price from" />
+                        <label for="inptPriceTo">Price to:</label>
+                        <input v-model="priceTo" class="inptPriceTo" type="text" placeholder="Price to">
+                        <button @click="search([category,priceFrom,priceTo])"><i class="fas fa-search"></i></button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="results" v-show="result == true">
+            <button class="result_exit" @click="result = false"><i class="fas fa-times"></i></button>
+            <results :searched_data="searched_data" @buy-product="buyProductResult"></results>
+        </div>
+        <div id="start" v-show="page == '' || nav== 'nav-bar'">
+            <h1 class="nvita">Nuova Vita</h1>
+        </div>
+        <div id="intro" v-show="page == 'intro'">
+            <intro v-for="data in data" v-if="data.category == 'intro'" :data="data"></intro>
+        </div>
+        <div id="projects" v-show="page == 'projects'">
+            <projects v-for="data in data" v-if="data.category == 'projects'" :data="data"></projects>
+        </div>
+        <div id="project" v-for="data in data" v-if="data.category == 'projects'"
+            v-show="page == 'spanish_villa' || page=='camparino' || page == 'brucke'">
+            <project v-for="data in data.subcategories" v-if="data.subcategory == page" :data="data"></project>
+        </div>
+        <div id="furnishings" v-show="page == 'furniture'">
+            <furnishings v-for="data in data" v-if="data.category == 'furniture'" :data="data"></furnishings>
+        </div>
+        <div id="furniture" v-for="data in data" v-if="data.category == 'furniture'" v-show="page=='chair' || page=='learning_chair' || page=='coffee_table' 
+        || page=='sofa' || page=='shelf' || page=='sideboard' || page=='bed'">
+            <furniture v-for="data in data.subcategories" v-if="data.subcategory == page" :data="data"
+                @buy-product="buyProduct"></furniture>
+        </div>
+        <div id="about" v-show="page == 'aboutUs'">
+            <about v-for="data in data" v-if="data.category == 'about'" :data="data"></about>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"
+        integrity="sha256-T/f7Sju1ZfNNfBh7skWn0idlCBcI3RwdLSS4/I7NQKQ=" crossorigin="anonymous"></script>
+
+    <script src="./nuova_vita.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,243 @@
+* {
+    background-color: rgb(34, 32, 39);
+    /*#303f46;*/
+    color: rgb(202, 201, 201);
+}
+a{
+    text-decoration: none;
+}
+body{
+    padding: 0;
+    margin-left: 3vw;
+    margin-top: 5vh;
+}
+button{
+    border: none;
+    font-size: 1.3rem;
+    background-color: transparent;
+}
+i{
+    background-color: transparent;
+    color: rgb(134, 133, 133);
+}
+img{
+    filter:grayscale(80%);
+}
+li{
+    list-style: none;
+}
+p{
+    text-align: justify;
+}
+img:hover{
+    filter:none;
+}
+#cart-search{
+    margin-left: 75vw;
+    position: absolute;
+    z-index: 1;
+}
+#inptCategory{
+    width: 10vw;
+    margin-left: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-right: 0.5rem;
+}
+.intro{
+  
+    display: grid;
+    grid-template-columns: 30vw 50vw ;
+   
+}
+#logo{
+    text-align: center;
+    width: 10vw;
+   margin-left: 42vw;
+    margin-bottom: 5vh;
+}
+#goal{
+    margin-top: 10vh;
+    font-size: 1.2rem;
+}
+#nav-bar{
+    position: absolute;
+    z-index: 1;
+    font-size: 1.5rem;
+    
+}
+#results{
+    border: 1px solid white;
+    border-radius: 1rem;
+    align-items: center;
+    margin-top: 10vh;
+    width: 82vw;
+}
+
+#top-line-icons{
+    display: grid;
+    grid-template-columns: 10vw  20vw;
+    gap: 70vw;
+    font-size: 1.5rem;
+}
+.about{
+    display: grid;
+    grid-template-columns: 40vw 40vw;
+    gap: 5rem;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+.about-org{
+    display: grid;
+    grid-template-columns: 40vw 20vw;
+    gap: 5rem;
+}
+.btns{
+  position: absolute;
+  z-index: 1;
+  border-radius: 1rem;
+  background-color: transparent;
+  margin-top: 0.5rem;
+  margin-left: 1rem;
+}
+.details-product{
+   background-color: rgb(87, 86, 86);
+  height: 20vh;
+   width: 20vw;
+   border-radius: 1rem;
+}
+.div-info-product{
+    width: 100%;
+    height: auto;
+    margin-top: 0rem;
+}
+.enlarged{
+    position: absolute;
+    width: 50vw;
+    z-index: 2;
+}
+.featured-img{
+    text-align: center;
+}
+.furnt-btn{
+    font-size: 1.3rem;
+    margin-top: 1.2rem;
+}
+.furnt-btn:focus{
+background-color: rgb(196, 201, 196);
+}
+.info-product{
+    line-height: 0;       
+    -webkit-column-count: 2;    
+    -webkit-column-gap: 1rem;    
+    -moz-column-count: 2;
+    -moz-column-gap: 1rem;
+     column-count: 2;    
+     column-gap: 1rem;
+     width: 50vw;
+    display:inline-block;    
+    margin-right: auto;    
+    margin-left: auto; 
+}
+.inptPriceFrom, .inptPriceTo{
+    width: 5vw;
+    margin-left: 1rem;
+   margin-bottom: 0.3rem;
+   margin-top: 0.3rem;
+}
+.list-details{
+    list-style: none;
+    
+}
+.main-image{
+    width: 40vw;
+    border-radius: 1rem;
+}
+.nvita{
+    margin-top: 30vh;
+    margin-left: 25vw;
+    font-size: 10rem;
+}
+.project-furnt{
+    display: grid;
+    grid-template-columns: 30vw 50vw;
+    }
+.project-sub-gallery {
+   width: 50vw;
+}
+.product{
+display: grid;
+grid-template-columns: 20vw 20vw;
+gap: 2rem;
+}
+
+.product-title,.product-materials, .product-price {
+    margin-left: 2vw;
+    font-size: 1.1rem;
+}
+.result{
+    margin-top: 10vh;
+    margin-left: 5vw;
+    display: grid;
+    grid-template-columns: 25vw 25vw 25vw;
+    
+}
+.result-details{
+    text-align: center;
+}
+.result_btns{
+    margin-bottom: 2vh; 
+}
+.result_btn:focus {
+    background-color: rgb(196, 201, 196);
+}
+.result_exit{
+    margin-left: 2vw;
+}
+.result_img {
+    width: 20vw;
+    border-radius: 0.5rem;
+}
+.shopping-cart, .search-field{
+    border: 1px solid white;
+    border-radius: 1rem;
+    background-color: transparent;
+    display: grid;
+    grid-template-rows: auto;
+}
+.sub-gallery{
+    line-height: 0;       
+    -webkit-column-count: 2;    
+    -webkit-column-gap: 1rem;    
+    -moz-column-count: 2;
+    -moz-column-gap: 1rem;
+     column-count: 2;    
+     column-gap: 1rem;
+}
+ .sub-image{
+    width: 100%;
+    height: auto;
+    margin-top: 1rem;
+}
+.sub-gallery{
+    display:inline-block;    
+    margin-right: auto;    
+    margin-left: auto; 
+}
+.sub-image{
+  border-radius: 1rem;
+}
+.thumb-img{
+    text-align: center;
+    
+}
+.thumb-image {
+    height: 10vh;
+    margin-left: 1rem;
+    border-radius: 0.3rem;
+}
+.total_price{
+    border: 1px solid rgb(196, 201, 196);
+    border-radius: 0.2rem;
+    width: 10vw;
+    margin-left: 1rem;
+}

@@ -1,0 +1,590 @@
+[
+    {
+        "category": "intro",
+        "text": "<div id='mission_vision'><p id='mission'>Our mission is to create reward experience and value that combine functionality with high quality and innovation for our customers. We want every partner and client experience to be the talk of a life time. Also, to define the most sophisticated and superior standard of quality in every exterior and interior designs.</p><p id='vision'>Our vision is to be a reputable, sustainable, and desirable premier luxurious interior design firm of the global market place providing the state-of-the-art innovative designs and superior quality finishing. We will continue to leverage on our many years of professional experience to consistently deliver exclusive design services that bring a complete satisfaction of our partners and clients requirements. This vision has been the core of our history and cultural value of design which is still the master key for our prospects.</p></div><p id='goal'><i>Nuova Vita</i> offers you a new life. All we want is to make your life comfortable.</p>",
+        "images": [
+            {
+                "large": "selected_project_0.png",
+                "thumb": "selected_project_0_small.png",
+                "default": false
+            },
+            {
+                "large": "selected_project_1.png",
+                "thumb": "selected_project_1_small.png",
+                "default": true
+            },
+            {
+                "large": "selected_project_2.png",
+                "thumb": "selected_project_2_small.png",
+                "default": false
+            },
+            {
+                "large": "selected_project_3.png",
+                "thumb": "selected_project_3_small.png",
+                "default": false
+            },
+            {
+                "large": "selected_project_4.png",
+                "thumb": "selected_project_4_small.png",
+                "default": false
+            },
+            {
+                "large": "selected_project_5.png",
+                "thumb": "selected_project_5_small.png",
+                "default": false
+            }
+        ]
+    },
+    {
+        "category": "projects",
+        "subcategories": [
+            {
+                "subcategory": "spanish_villa",
+                "title": "Spanish villa",
+                "sub_text": "<p>Spanish villa located in a pine forest of Valakampiai in Vilnius. A four-storey residential house reflects the essential trends of Mediterranean style interior design and blends it with the native surroundings of the object. Concrete, rattan, stone, ceramics, natural plants, and other textures from Spain are the dominant textures here. They are combined with the nautical theme, handcrafted timber beems, a thatch roof, and authentical details such as cast-iron tiles. It’s a great fit with the pine grove behind the window.</p>",
+                "sub_images": [
+                    {
+                        "large": "spanish_villa_0.jpg"
+                    },
+                    {
+                        "large": "spanish_villa_1.jpg"
+                    },
+                    {
+                        "large": "spanish_villa_2.jpg"
+                    },
+                    {
+                        "large": "spanish_villa_3.jpg"
+                    },
+                    {
+                        "large": "spanish_villa_4.jpg"
+                    },
+                    {
+                        "large": "spanish_villa_5.jpg"
+                    },
+                    {
+                        "large": "spanish_villa_6.jpg"
+                    },
+                    {
+                        "large": "spanish_villa_7.jpg"
+                    },
+                    {
+                        "large": "spanish_villa_8.jpg"
+                    },
+                    {
+                        "large": "spanish_villa_9.jpg"
+                    },
+                    {
+                        "large": "spanish_villa_10.jpg"
+                    }
+                ]
+            },
+            {
+                "subcategory": "camparino",
+                "title": "Camparino",
+                "sub_text": "<p>The restyling of Camparino in Galleria was carried with full regard for the history of the location in terms of its aesthetic and social significance. For Lissoni Casal Ribeiro, the renovation of an institution such as the Camparino has meant reviving certain tenets of Milanese interior design while seeking to maintain intact the concept of conviviality and sociality that forms such an intrinsic part of the city.</p>",
+                "sub_images": [
+                    {
+                        "large": "camparino_0.jpg"
+                    },
+                    {
+                        "large": "camparino_1.jpg"
+                    },
+                    {
+                        "large": "camparino_2.jpg"
+                    },
+                    {
+                        "large": "camparino_3.jpg"
+                    },
+                    {
+                        "large": "camparino_4.jpg"
+                    },
+                    {
+                        "large": "camparino_5.jpg"
+                    },
+                    {
+                        "large": "camparino_6.jpg"
+                    },
+                    {
+                        "large": "camparino_7.jpg"
+                    },
+                    {
+                        "large": "camparino_8.jpg"
+                    },
+                    {
+                        "large": "camparino_9.jpg"
+                    },
+                    {
+                        "large": "camparino_10.jpg"
+                    }
+                ]
+            },
+            {
+                "subcategory": "brucke",
+                "title": "Brücke 49",
+                "sub_text": "<p>Brücke 49 in Vals Switzerland is the remake of an traditional mountain-house build 1902. Bought in 2010. Re-launched in 2011 as a re-invention of the traditional mountain-stay.</p><p>Brücke 49 can almost whatever you want it to be to fit your needs for a perfect holiday, a creative get-together, a short stay for hiking in the mountains, a pension, a holiday home for a week with your loved ones.</p><p> The house is symmetrical with the original staircase in the middle leading from the entrance in the ground-level to the spacy and comfortable living room, kitchen and library from where you walk out into the garden situated with a fantastic view over the Rhein river, the Valser village and towards the surrounding mountains.</p><p>Half a flight up you’ll find the Apres Ski or Hiking area with a fireplace and cosy chairs.</p><p>On the second floor is the suite which takes up the whole with of the house with a stylish living room featuring an original stone fireplace and beside a spacious bedroom.</p><p>Continuing up the stairs you arrive at the top floor with two rooms named after the Tomül mountain pass and the Zervreila Mountain visible from the rooms.</p><p>There are three guestrooms and one suite at Brücke 49 with always two of them sharing a bathroom. One flight up from the first floor brings you to the smallest room, which has a balcony facing south with spectacular mountain views. On the same floor is the suite, which takes up the entire length of the house. It has quite a big bedroom, a small living area, and a stone oven from the 1940s that is still used to heat the room. The suite and smaller guestroom share the bathroom on that floor, which was made by Jaime Hayon, a Spanish designer.</p><p>The top floor of the house has two big rooms under the roof that share a large bathroom. The view from up there is spectacular.</p>",
+                "sub_images": [
+                    {
+                        "large": "brucke_0.png"
+                    },
+                    {
+                        "large": "brucke_1.png"
+                    },
+                    {
+                        "large": "brucke_2.png"
+                    },
+                    {
+                        "large": "brucke_3.jpg"
+                    },
+                    {
+                        "large": "brucke_4.jpg"
+                    },
+                    {
+                        "large": "brucke_5.jpg"
+                    },
+                    {
+                        "large": "brucke_6.jpg"
+                    },
+                    {
+                        "large": "brucke_7.jpg"
+                    },
+                    {
+                        "large": "brucke_8.png"
+                    },
+                    {
+                        "large": "brucke_9.png"
+                    },
+                    {
+                        "large": "brucke_10.jpg"
+                    },
+                    {
+                        "large": "brucke_11.jpg"
+                    },
+                    {
+                        "large": "brucke_12.jpg"
+                    },
+                    {
+                        "large": "brucke_13.png"
+                    },
+                    {
+                        "large": "brucke_14.png"
+                    },
+                    {
+                        "large": "brucke_15.png"
+                    },
+                    {
+                        "large": "brucke_16.jpg"
+                    },
+                    {
+                        "large": "brucke_17.jpg"
+                    },
+                    {
+                        "large": "brucke_18.jpg"
+                    }
+                ]
+            }
+        ],
+        "text": "<p>Since 1968 we project and decorate exclusive spaces with the help of our interior designers’ experience and the most prestigious brands in the international design field.</p><p>Our interior design service is a path through design and luxury handcraft. It is a research experience that begins with an idea and ends with the realization of unique housing and working experiences, result of competences and awareness of our Designers.</p><p>Nuova Vita interior design service is a dedicated collaboration and dialogue between the client and the designer staff. An approach that allows to elaborate prompt projects that respects technical requirements of the spaces involved and the client personal taste and needs.</p>",
+        "images": [
+            {
+                "large": "spanish_villa_0.jpg",
+                "thumb": "spanish_villa_0_small.jpg",
+                "default": true
+            },
+            {
+                "large": "brucke_1.png",
+                "thumb": "brucke_1_small.png",
+                "default": false
+            },
+            {
+                "large": "camparino_0.jpg",
+                "thumb": "camparino_0_small.jpg",
+                "default": false
+            }
+        ]
+    },
+    {
+        "category": "furniture",
+        "subcategories": [
+            {
+                "subcategory": "chair",
+                "title": "Chairs",
+                "sub_text": "<p>The fully upholstered Drop™ blends elegantly into a wide variety of settings as a great example of furniture design that is able to influence and elevate an entire room by its mere presence and beauty. Arne Jacobsen originally designed it for the SAS Royal Hotel in Copenhagen, and in 2014 Fritz Hansen relaunched the chair which Arne Jacobsen claimed was his own favourite.</p>",
+                "sub_images": [
+                    {
+                        "large": "chair_0.jpg",
+                        "title" : "Puff chair",
+                        "price": 300,
+                        "details": "<p class='product-materials'>Materials: cotton, wood</p>"
+                    },
+                    {
+                        "large": "chair_1.jpg",
+                        "title" : "Triple drop",
+                        "price": 7100,
+                        "details": "<p class='product-materials'>Materials: cotton, wood</p>"
+                    },
+                    {
+                        "large": "chair_2.jpg",
+                        "title" : "Drop",
+                        "price": 2800,
+                        "details": "<p class='product-materials'>Materials: cotton, wood</p>"
+                    },
+                    {
+                        "large": "chair_3.jpg",
+                        "title" : "Duble drop",
+                        "price": 5000,
+                        "details": "<p class='product-materials'>Materials: cotton, wood</p>"
+                    },
+                    {
+                        "large": "chair_4.jpg",
+                        "title" : "Wire chair",
+                        "price": 1800,
+                        "details": "<p class='product-materials'>Materials: eco leather, metal</p>"
+                    },
+                    {
+                        "large": "chair_5.jpg",
+                        "title" : "Wire banche",
+                        "price": 2100,
+                        "details": "<p class='product-materials'>Materials: eco leather, metal</p>"
+                    },
+                    {
+                        "large": "chair_6.jpg",
+                        "title" : "Circle wire banche",
+                        "price": 3800,
+                        "details": "<p class='product-materials'>Materials: eco leather, metal</p>"
+                    },
+                    {
+                        "large": "chair_7.jpg",
+                        "title" : "Wire chair",
+                        "price": 1800,
+                        "details": "<p class='product-materials'>Materials: eco leather, metal</p>"
+                    },
+                    {
+                        "large": "chair_8.jpg",
+                        "title" : "Minimalist drop",
+                        "price": 2300,
+                        "details": "<p class='product-materials'>Materials: cotton, wood</p>"
+                    },
+                    {
+                        "large": "chair_9.jpg",
+                        "title" : "Triple minimalist drop",
+                        "price": 5000,
+                        "details": "<p class='product-materials'>Materials: cotton, wood</p>"
+                    }
+                ]
+            },
+            {
+                "subcategory": "learning_chair",
+                "title": "Learning chairs",
+                "sub_text": "<p>Learning environments designed to inspire. Cila Go proposes new aesthetic possibilities for the Learning Sector while providing all the functionality necessary for this specific context — mobility for group collaboration, quiet space for independent work, accessories for technology- enabled learning for the ever-expanding notion of the classroom.</p>",
+                "sub_images": [
+                    {
+                        "large": "learning_chair_0.jpg",
+                         "title" : "Learning tabouret",
+                        "price": 580,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    },
+                    {
+                        "large": "learning_chair_1.jpg",
+                        "title" : "Leraning chair",
+                        "price": 650,
+                        "details": "<p class='product-materials'>Materials: plastic, wood</p>"
+                    },
+                    {
+                        "large": "learning_chair_2.jpg",
+                        "title" : "Learning chair",
+                        "price": 650,
+                        "details": "<p class='product-materials'>Materials: plastic, wood</p>"
+                    },
+                    {
+                        "large": "learning_chair_3.jpg",
+                        "title" : "Learning chair",
+                        "price": 650,
+                        "details": "<p class='product-materials'>Materials: plastic, wood</p>"
+                    },
+                    {
+                        "large": "learning_chair_4.jpg",
+                        "title" : "Learning chair with wheels",
+                        "price": 720,
+                        "details":"<p class='product-materials'>Materials: plastic, wood</p>"
+                    },
+                    {
+                        "large": "learning_chair_5.jpg",
+                        "title" : "Learning armchair",
+                        "price": 880,
+                        "details": "<p class='product-materials'>Materials: plastic, wood</p>"
+                    }
+                ]
+            },
+            {
+                "subcategory": "coffee_table",
+                "title": "Coffee tables",
+                "sub_text": "<p>The Terra collection grows with new designs of different types. In addition to the already known coffee table, we add three sizes of TV sideboard, two sideboards and a highboard. In Terra, the pure lines are intermingled with a simple design that hides a great complexity in its details. Lines that define the position in which the ceramic, which almost completely covers the furniture, joins the metal to form a collection designed to meet the different needs of families. Designed with the best components on the market, the Terra collection will allow you to create beautiful combinations with the dining room table and its furniture thanks to the protagonism of ceramic in the product.</p>",
+                "sub_images": [
+                    {
+                        "large": "coffee_table_0.jpg",
+                        "title" : "Cube coffee table",
+                        "price": 2700,
+                        "details": "<p class='product-materials'>Materials: metal</p>"
+                    },
+                    {
+                        "large": "coffee_table_1.jpg",
+                        "title" : "Simple cube coffee table",
+                        "price": 500,
+                        "details": "<p class='product-materials'>Materials: metal, glass</p>"
+                    },
+                    {
+                        "large": "coffee_table_2.jpg",
+                        "title" : "Neasting cubes coffee tables",
+                        "price": 1000,
+                        "details": "<p class='product-materials'>Materials: metal, glass</p>"
+                    },
+                    {
+                        "large": "coffee_table_3.jpg",
+                        "title" : "Neasting triangle coffee tables",
+                        "price": 800,
+                        "details": "<p class='product-materials'>Materials: metal</p>"
+                    }
+                ]
+            },
+            {
+                "subcategory": "sofa",
+                "title": "Sofas",
+                "sub_text": "<p>The system designed in 1970, makes its comeback 50 years later, speaking a contemporary language, between structural solutions and sustainable choices. The history: 50 years that have not gone by Presented to the public in 1970, Camaleonda has passed through 5 decades of design history as a true icon. Designed by Mario Bellini, this modular sofa has defined the aesthetics of an entire era of interior design, thanks to its great success both in terms of the public and critics. It is constantly featured in most international design museums and in the film-sets that have defined the collective imagination. An object that is loved by design aficionados, antique dealers and interior decorators alike is finally back in production after a careful design process that involved the close collaboration between the B&B Italia’s Research & Development Centre and Mario Bellini.</p>",
+                "sub_images": [
+                    {
+                        "large": "seating_sofas_0.jpg",
+                        "title" : "Puff sofa",
+                        "price": 5700,
+                        "details": "<p class='product-materials'>Materials: cotton, wood</p>"
+                    },
+                    {
+                        "large": "seating_sofas_1.jpg",
+                        "title" : "Puff sofa",
+                        "price": 7200,
+                        "details": "<p class='product-materials'>Materials: cotton, wood</p>"
+                    },
+                    {
+                        "large": "seating_sofas_2.jpg",
+                        "title" : "Fluid form sofa",
+                        "price": 5400,
+                        "details": "<p class='product-materials'>Materials: cotton, wood</p>"
+                    },
+                    {
+                        "large": "seating_sofas_3.jpg",
+                        "title" : "Geometry sofa",
+                        "price": 5200,
+                        "details": "<p class='product-materials'>Materials: cotton, wood</p>"
+                    },
+                    {
+                        "large": "seating_sofas_4.jpg",
+                        "title" : "Soft form bedsitter",
+                        "price": 3700,
+                        "details": "<p class='product-materials'>Materials: cotton, wood</p>"
+                    },
+                    {
+                        "large": "seating_sofas_5.jpg",
+                        "title" : "Soft edges sofa",
+                        "price": 5000,
+                        "details":"<p class='product-materials'>Materials: cotton, wood</p>"
+                    }
+                ]
+            },
+            {
+                "subcategory": "shelf",
+                "title": "Shelves",
+                "sub_text": "<p>In modern, open working environments, Cubas ensures ideal flexibility in division of space. Mobile modules that are able to flexibly adapt changing user requirements at any time. And the freely configurable, modular storage space system impresses with its clear, modern design.</p>",
+                "sub_images": [
+                    {
+                        "large": "shelves_0.jpg",
+                        "title" : "Happy childhood shelf",
+                        "price": 4000,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    },
+                    {
+                        "large": "shelves_1.jpg",
+                        "title" : "Simple shelf element",
+                        "price": 500,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    },
+                    {
+                        "large": "shelves_2.jpg",
+                        "title" : "Translucent shelf",
+                        "price": 2500,
+                        "details": "<p class='product-materials'>Materials: wood, glass, metal</p>"
+                    },
+                    {
+                        "large": "shelves_3.jpg",
+                        "title" : "Retro shelf",
+                        "price": 2000,
+                        "details": "<p class='product-materials'>Materials: wood, metal</p>"
+                    }
+                ]
+            },
+            {
+                "subcategory": "sideboard",
+                "title": "Sideboards",
+                "sub_text": "<p>Our Salih once said: “For me, designing is like a game –just like a child of three plays with toys, I consider my pencil a joy! I design for pleasure -it’s never a chore“. Salih practices what he preaches; so one day he took his pencil and blended some of his sweet childhood memories together with flashes of futurism. He started to draw lines that reminded him of days long past, days from the 60’s, filled with love, soul and passion. His shapes were refined with modern, light touches... distinct elements that form the character of what would be the first Gazzda collection. He named it after his most precious creation to date: his daughter Ena.</p>",
+                "sub_images": [
+                    {
+                        "large": "side_boards_0.jpg",
+                        "title" : "Domino ceramic sideboard - triple set",
+                        "price": 7000,
+                        "details":"<p class='product-materials'>Materials: wood, ceramic</p>"
+                    },
+                    {
+                        "large": "side_boards_1.jpg",
+                        "title" : "Domino ceramic sideboard",
+                        "price": 2800,
+                        "details": "<p class='product-materials'>Materials: wood, ceramic</p>"
+                    },
+                    {
+                        "large": "side_boards_2.jpg",
+                        "title" : "Domino ceramic sideboard",
+                        "price": 3000,
+                        "details": "<p class='product-materials'>Materials: wood, ceramic</p>"
+                    },
+                    {
+                        "large": "side_boards_3.jpg",
+                        "title" : "Domino ceramic sideboard",
+                        "price": 2500,
+                        "details": "<p class='product-materials'>Materials: wood, ceramic</p>"
+                    }
+                ]
+            },
+            {
+                "subcategory": "bed",
+                "title": "Beds",
+                "sub_text": "<p>CHLOÉ combines haute couture and attractive design. The shape is rectilinear but the volumes are subtly created by diamond-shaped padding set off by piping. The finish expresses refinement, full of delicacy and emotion, evoking the cosiness of traditional French boudoirs. Available in heights of 125 and 150 cm.</p>",
+                "sub_images": [
+                    {
+                        "large": "bed_0.jpg",
+                        "title" : "Scarab bed",
+                        "price": 2000,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    },
+                    {
+                        "large": "bed_1.jpg",
+                        "title" : "Orient sounds bed",
+                        "price": 1800,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    },
+                    {
+                        "large": "bed_2.jpg",
+                        "title" : "Orient sounds bed",
+                        "price": 1800,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    },
+                    {
+                        "large": "bed_3.jpg",
+                        "title" : "Retro style bed",
+                        "price": 2800,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    },
+                    {
+                        "large": "bed_4.jpg",
+                        "title" : "Simple form bed",
+                        "price": 2000,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    },
+                    {
+                        "large": "bed_5.jpg",
+                        "title" : "Translucent bed",
+                        "price": 4000,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    },
+                    {
+                        "large": "bed_6.jpg",
+                        "title" : "Clasic style bed",
+                        "price": 1000,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    },
+                    {
+                        "large": "bed_7.jpg",
+                        "title" : "Comfor and luxary bed",
+                        "price": 5000,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    },
+                    {
+                        "large": "bed_8.jpg",
+                        "title" : "Chic and luxary bed",
+                        "price": 5000,
+                        "details": "<p class='product-materials'>Materials: wood</p>"
+                    }
+                ]
+            }
+        ],
+        "text": "<p>Imagine a world in which you wake and stand every moment! This is a world without furniture. Furniture allows us to recline, sit, work and collect! We collect things to sit on, eat on, write on, and sleep in. Where does all of this furniture come from? Who makes furniture? How is furniture made? This journey takes us into the history of human furniture and offers opportunities to mock up your own ideas about how people should interact and function with useful objects in their daily lives. People use furniture to store belongings, to sit or lie down, to work, eat, play and socialize. Early furniture consisted of padding to sit or sleep on. It was created to be mobile and moved from place to place. In fact, the French word for furniture is actually “le mobilier”. The chair, table, bed and trunk (storage) were the most common types of early furniture. Trunks for storing clothes and supplies eventually became large wardrobes or armoires and served as mini closets! Early furniture was often multifunctional serving as a table, and transforming into a bed. Furniture design and construction became a cultural expression of collection and care as people created and kept pieces of value. A tradition of craft developed in specific countries with specific artisans. Every time period creates new types of furniture for new types of collections and new ways of working and living.</p>",
+        "images": [
+            {
+                "large": "learning_chair_0.jpg",
+                "thumb": "learning_chair_0_small.jpg",
+                "default": true
+            },
+            {
+                "large": "side_boards_0.jpg",
+                "thumb": "side_boards_0_small.jpg",
+                "default": false
+            },
+            {
+                "large": "shelves_0.jpg",
+                "thumb": "shelves_0_small.jpg",
+                "default": false
+            },
+            {
+                "large": "bed_8.jpg",
+                "thumb": "bed_8_small.jpg",
+                "default": false
+            },
+            {
+                "large": "seating_sofas_0.jpg",
+                "thumb": "seating_sofas_0_small.jpg",
+                "default": false
+            },
+            {
+                "large": "coffee_table_1.jpg",
+                "thumb": "coffee_table_1_small.jpg",
+                "default": false
+            }
+        ]
+    },
+    {
+        "category": "about",
+        "subcategories": [
+            {
+                "subcategory": "director",
+                "sub_text": "<p>Piero Ricci is creative director for Alpi, Boffi, De Padova, Living Divani, Lema, Lualdi, Porro and Sanlorenzo for whom he also designs an extensive range of products. Recognized as one of the masters of contemporary design, he has worked with many international brands including Alessi, Antrax, Atlas Concorde, B&B, Bonacina1889, Cappellini, Cassina, Cotto, Fantini, Flos, Glas Italia, Golran, Illy, Janus et Cie, Kartell, Kerakoll, KN Industrie, Knoll, Nerosicilia, Olivari, Salvatori, Tecno, Viccarbe.</p>",
+                "sub_images": [
+                    {
+                        "large": "director.jpeg"
+                    }
+                ]
+            },
+            {
+                "subcategory": "designer",
+                "sub_text": "<p>Kelly Kreiser is a creative who believes in the power of beautiful interiors to transform daily life.  With a BA in Interior Design from Oklahoma State University and a well trained eye for quality, craftsmanship, furnishings and textiles, she continues to be recognized for her crisp, timeless style and designs that remain fresh year after year. Kelly is best known for creating polished spaces that are functional, friendly and beautiful. Each project speaks to her client’s own interests, travels and lifestyle. Her aesthetic is classic with a twist, timeless with a hint of edge. She prides herself on her attention to detail, obsession with quality and love for local craftspeople. Kelly's work is regularly featured in leading design and lifestyle publications including Better Homes & Gardens, This Old House Magazine, California Home & Design, San Francisco Chronicle and numerous blogs. </p>",
+                "sub_images": [
+                    {
+                        "large": "architect.jpg"
+                    }
+                ]
+            },
+            {
+                "subcategory": "architect",
+                "sub_text": "<p>Mark Canada graduated from Virginia Polytechnic Institute, Blacksburg, Virginia, with a Bachelor of Architecture degree in 1977. After a brief internship working for former professors Harold Hill in Blacksburg, Virginia and Donald Chandler in McLean, Virginia, in 1978 he began his professional career in Austin, Texas, working for the Shiflet Group, Architects. In 1983 he formed the partnership, which became The Austin Group, Architects. In 1984 he founded the firm of Mark W. Canada, Architect, AIA. Shortly thereafter the firm's name was changed to Canada + Associates, Architecture to more closely represent the range of architectural and engineering services the firm provides as well as the collaborative partnerships it would enter. With thirty-one years of professional experience in the discipline of architecture Canada brings a great variety of expertise to the firm. He has worked intensely on various commercial projects ranging from speculative office buildings and multi-family housing projects to user specific facilities, sports and fitness centers and institutional-type projects.</p>",
+                "sub_images": [
+                    {
+                        "large": "designer_4.jpeg"
+                    }
+                ]
+            }
+        ],
+        "text": "<p>With offices in Milan and New York, Nuova Vita has a thirty-year history in developing international projects in the fields of architecture, landscape, interior, product and graphic design, in addition to being responsible for the art direction for some of the most influential design companies.</p><p>Led by Piero Lissoni, the practice combines a range of expertise with an holistic and tailored approach that sets it apart, establishing a stylistic code and a visual identity that are clearly and instantly recognizable.</p><p>The practice’s work is inspired by a sense of rigor and simplicity and is characterized by a regard to detail, coherence and elegance with particular attention to proportion and harmony.</p><p>Organised around different fields of intervention, the practice comprises Lissoni Casal Ribeiro for masterplans, landscape design, architecture and interior design, NuovaVita Associati for product design, art direction and fit-outs and NuovaVita Graphx for graphic design, visual communication and brand identity, while NuovaVita New York develops interior design projects for the American market.</p>",
+        "images": [
+            {
+                "large": "company.jpg",
+                "thumb": "",
+                "default": true
+            }
+        ]
+    }
+]
